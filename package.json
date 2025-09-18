@@ -1,6 +1,6 @@
 {
   "name": "mui-phone-number",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "A material-ui v7+ react component to format phone numbers. Based on react-phone-input-2",
   "main": "dist/index.js",
   "types": "index.d.ts",
@@ -68,7 +68,7 @@
     "@mui/material": "^7.0.0",
     "clsx": "^1.2.1",
     "prop-types": "^15.8.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   }
 }
